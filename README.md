@@ -1,2 +1,2 @@
 # FF14
-Guias y cosas de FF14
+Guias, plugin y cosas para FF14
