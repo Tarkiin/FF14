@@ -1,37 +1,37 @@
-[
-  {
-    "Author": "Tarkin",
-    "Name": "TarkinBoardAnalyzer",
-    "Punchline": "Analizador avanzado del Market Board para FFXIV",
-    "Description": "Plugin que analiza y proporciona información detallada del Market Board de FFXIV con funcionalidades avanzadas de seguimiento y análisis de precios.",
-    "InternalName": "TarkinBoardAnalyzer",
-    "AssemblyVersion": "1.0.0.1",
-    "TestingAssemblyVersion": "1.0.0.1",
-    "RepoUrl": "https://github.com/Tarkiin/FF14",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "market",
-      "board",
-      "analyzer",
-      "prices",
-      "trading"
-    ],
-    "CategoryTags": [
-      "utility",
-      "market"
-    ],
-    "DalamudApiLevel": 13,
-    "IconUrl": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/icon.png",
-    "ImageUrls": ["https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/image.png"],
-    "DownloadLinkInstall": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/TarkinBoardAnalyzer.dll",
-    "DownloadLinkTesting": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/TarkinBoardAnalyzer.dll",
-    "DownloadLinkUpdate": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/TarkinBoardAnalyzer.dll",
-    "DownloadCount": 12,
-    "LastUpdated": "1758402598",
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": true,
-    "LoadPriority": 0,
-    "AcceptsFeedback": true
-  }
-]
+{
+    "Author":  "Tarkin",
+    "Name":  "TarkinBoardAnalyzer",
+    "Punchline":  "Analizador avanzado del Market Board para FFXIV",
+    "Description":  "Plugin que analiza y proporciona información detallada del Market Board de FFXIV con funcionalidades avanzadas de seguimiento y análisis de precios.",
+    "InternalName":  "TarkinBoardAnalyzer",
+    "AssemblyVersion":  "0.0.0.4",
+    "TestingAssemblyVersion":  "0.0.0.4",
+    "RepoUrl":  "https://github.com/Tarkiin/FF14",
+    "ApplicableVersion":  "any",
+    "Tags":  [
+                 "market",
+                 "board",
+                 "analyzer",
+                 "prices",
+                 "trading"
+             ],
+    "CategoryTags":  [
+                         "utility",
+                         "market"
+                     ],
+    "DalamudApiLevel":  13,
+    "IconUrl":  "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/icon.png",
+    "ImageUrls":  [
+                      "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/image.png"
+                  ],
+    "DownloadLinkInstall":  "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/TarkinBoardAnalyzer.dll",
+    "DownloadLinkTesting":  "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/TarkinBoardAnalyzer.dll",
+    "DownloadLinkUpdate":  "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/TarkinBoardAnalyzer.dll",
+    "DownloadCount":  12,
+    "LastUpdated":  1758416908,
+    "LoadRequiredState":  0,
+    "LoadSync":  false,
+    "CanUnloadAsync":  true,
+    "LoadPriority":  0,
+    "AcceptsFeedback":  true
+}
