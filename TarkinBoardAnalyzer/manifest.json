@@ -19,7 +19,7 @@
     "utility",
     "market"
   ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": true,
