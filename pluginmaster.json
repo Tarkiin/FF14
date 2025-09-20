@@ -21,7 +21,7 @@
       "market"
     ],
     "DalamudApiLevel": 13,
-    "IconUrl": "",
+    "IconUrl": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/icon.png",
     "ImageUrls": [],
     "DownloadLinkInstall": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/TarkinBoardAnalyzer.dll",
     "DownloadLinkTesting": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/TarkinBoardAnalyzer.dll",
