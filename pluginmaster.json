@@ -1,39 +1,37 @@
-[
-  {
+﻿{
     "Author": "Tarkin",
     "Name": "TarkinBoardAnalyzer",
     "Punchline": "Analizador avanzado del Market Board para FFXIV",
-    "Description": "Plugin que analiza y proporciona información detallada del Market Board de FFXIV con funcionalidades avanzadas de seguimiento y análisis de precios.",
+    "Description": "Plugin que analiza y proporciona informaciÃ³n detallada del Market Board de FFXIV con funcionalidades avanzadas de seguimiento y anÃ¡lisis de precios.",
     "InternalName": "TarkinBoardAnalyzer",
-    "AssemblyVersion": "0.0.0.18",
-    "TestingAssemblyVersion": "0.0.0.18",
+    "AssemblyVersion": "0.0.0.21",
+    "TestingAssemblyVersion": "0.0.0.21",
     "RepoUrl": "https://github.com/Tarkiin/FF14",
     "ApplicableVersion": "any",
     "Tags": [
-      "market",
-      "board",
-      "analyzer",
-      "prices",
-      "trading"
-    ],
+                 "market",
+                 "board",
+                 "analyzer",
+                 "prices",
+                 "trading"
+             ],
     "CategoryTags": [
-      "utility",
-      "market"
-    ],
+                         "utility",
+                         "market"
+                     ],
     "DalamudApiLevel": 13,
     "IconUrl": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/icon.png",
     "ImageUrls": [
-      "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/image.png"
-    ],
+                      "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/image.png"
+                  ],
     "DownloadLinkInstall": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/latest.zip",
     "DownloadLinkTesting": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/latest.zip",
     "DownloadCount": 8,
-    "LastUpdated": "1758485693",
+    "LastUpdated": "1758486335",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": true,
     "LoadPriority": 0,
     "AcceptsFeedback": true
-  }
-]
+}
