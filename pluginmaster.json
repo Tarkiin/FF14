@@ -1,38 +1,33 @@
-﻿{
+[
+  {
     "Author": "Tarkin",
     "Name": "TarkinBoardAnalyzer",
     "Punchline": "Analizador avanzado del Market Board para FFXIV",
-    "Description": "Plugin que analiza y proporciona informaciÃ³n detallada del Market Board de FFXIV con funcionalidades avanzadas de seguimiento y anÃ¡lisis de precios.",
+    "Description": "Plugin que analiza y proporciona información detallada del Market Board de FFXIV con funcionalidades avanzadas de seguimiento y análisis de precios.",
     "InternalName": "TarkinBoardAnalyzer",
     "AssemblyVersion": "0.0.0.22",
     "TestingAssemblyVersion": "0.0.0.22",
     "RepoUrl": "https://github.com/Tarkiin/FF14",
     "ApplicableVersion": "any",
-    "Tags": [
-                 "Market Board",
-                 "Analysis",
-                 "Economy",
-                 "FFXIV"
-             ],
-    "CategoryTags": [
-                         "utility"
-                     ],
+    "Tags": ["Market Board", "Analysis", "Economy", "FFXIV"],
+    "CategoryTags": ["utility"],
     "DalamudApiLevel": 10,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Changelog": "VersiÃ³n inicial del analizador del Market Board",
+    "Changelog": "Versión inicial del analizador del Market Board",
     "AcceptsFeedback": true,
-    "FeedbackMessage": "Â¿Tienes sugerencias o encontraste un bug? Â¡ContÃ¡ctanos!",
+    "FeedbackMessage": "¿Tienes sugerencias o encontraste un bug? ¡Contáctanos!",
     "FeedbackWebhook": null,
-    "LastUpdated": "1758486377",
+    "LastUpdated": "1726946779",
     "DownloadLinkInstall": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/latest.zip",
     "DownloadLinkTesting": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/latest.zip",
     "DownloadCount": 0,
     "IconUrl": "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/icon.png",
     "ImageUrls": [
-                      "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/image.png"
-                  ]
-}
+      "https://github.com/Tarkiin/FF14/raw/main/TarkinBoardAnalyzer/image.png"
+    ]
+  }
+]
