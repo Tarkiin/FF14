@@ -3,7 +3,7 @@
     "Author": "Tarkin",
     "Name": "TarkinBoardAnalyzer",
     "Punchline": "Analizador avanzado del Market Board para FFXIV",
-    "Description": "Plugin que analiza y proporciona información detallada del Market Board de FFXIV con funcionalidades avanzadas de seguimiento y análisis de precios.",
+    "Description": "Plugin que analiza y proporciona información detallada del Market Board de FFXIV con análisis de precios.",
     "InternalName": "TarkinBoardAnalyzer",
     "AssemblyVersion": "0.0.0.30",
     "TestingAssemblyVersion": "0.0.0.30",
