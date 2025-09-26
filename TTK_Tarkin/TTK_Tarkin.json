@@ -1,31 +1,20 @@
 {
   "Author": "Tarkin",
   "Name": "TTK Tarkin",
-  "Punchline": "Time to Kill calculator for FFXIV enemies",
+  "Punchline": "Plugin que calcula y muestra el tiempo estimado para matar enemigos (TTK) basado en el daño en tiempo real.",
   "Description": "Plugin que calcula y muestra el tiempo estimado para matar enemigos (TTK) basado en el daño en tiempo real. Incluye tracking de DPS, visualización configurable y filtros avanzados para optimizar tu experiencia de combate en Final Fantasy XIV.",
   "InternalName": "TTK_Tarkin",
-  "AssemblyVersion": "0.0.0.2",
-  "TestingAssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "1.0.1.0",
+  "TestingAssemblyVersion": "1.0.1.0",
   "RepoUrl": "https://github.com/Tarkiin/FF14",
   "ApplicableVersion": "any",
-  "Tags": [
-    "combat",
-    "dps",
-    "ttk",
-    "damage",
-    "utility",
-    "overlay"
-  ],
-  "CategoryTags": [
-    "utility",
-    "combat"
-  ],
+  "CategoryTags": ["utility", "combat"],
   "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": true,
   "LoadPriority": 0,
-  "IconUrl": "",
   "ImageUrls": [],
+  "IconUrl": "",
   "AcceptsFeedback": true
 }
