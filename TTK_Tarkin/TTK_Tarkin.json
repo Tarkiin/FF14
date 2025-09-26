@@ -14,7 +14,9 @@
   "LoadSync": false,
   "CanUnloadAsync": true,
   "LoadPriority": 0,
-  "ImageUrls": [],
-  "IconUrl": "",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/Tarkiin/FF14/main/TTK_Tarkin/images/image.svg"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/Tarkiin/FF14/main/TTK_Tarkin/images/icon.svg",
   "AcceptsFeedback": true
 }
