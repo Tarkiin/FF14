@@ -80,8 +80,8 @@
     "Punchline": "Comparte y visualiza jobs de party en tiempo real",
     "Description": "Plugin que permite compartir y visualizar los jobs/clases de los miembros de tu party en tiempo real. Facilita la coordinación de grupo mostrando información detallada de las clases seleccionadas por cada miembro del party.",
     "InternalName": "PartyJobShare_Tarkin",
-    "AssemblyVersion": "1.0.0.1",
-    "TestingAssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
+    "TestingAssemblyVersion": "1.0.0.2",
     "RepoUrl": "https://github.com/Tarkiin/FF14",
     "ApplicableVersion": "any",
     "Tags": [
