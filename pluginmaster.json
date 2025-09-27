@@ -96,13 +96,11 @@
       "social"
     ],
     "DalamudApiLevel": 13,
-    "IconUrl": "https://raw.githubusercontent.com/Tarkiin/FF14/main/PartyJobShare_Tarkin/images/icon.png",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/Tarkiin/FF14/main/PartyJobShare_Tarkin/images/image1.png"
-    ],
-    "DownloadLinkInstall": "https://github.com/Tarkiin/FF14/raw/main/PartyJobShare_Tarkin/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Tarkiin/FF14/raw/main/PartyJobShare_Tarkin/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Tarkiin/FF14/raw/main/PartyJobShare_Tarkin/latest.zip",
+    "IconUrl": "",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://github.com/TarkinFF14/PartyJobShare/raw/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TarkinFF14/PartyJobShare/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TarkinFF14/PartyJobShare/raw/main/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "1758929623",
     "LoadRequiredState": 0,
