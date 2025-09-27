@@ -73,5 +73,42 @@
     "CanUnloadAsync": true,
     "LoadPriority": 0,
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "Tarkin",
+    "Name": "PartyJobShare Tarkin",
+    "Punchline": "Comparte y visualiza jobs de party en tiempo real",
+    "Description": "Plugin que permite compartir y visualizar los jobs/clases de los miembros de tu party en tiempo real. Facilita la coordinación de grupo mostrando información detallada de las clases seleccionadas por cada miembro del party.",
+    "InternalName": "PartyJobShare_Tarkin",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Tarkiin/FF14",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "party",
+      "jobs",
+      "coordination",
+      "social",
+      "utility"
+    ],
+    "CategoryTags": [
+      "utility",
+      "social"
+    ],
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/Tarkiin/FF14/main/PartyJobShare_Tarkin/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Tarkiin/FF14/main/PartyJobShare_Tarkin/images/image1.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/Tarkiin/FF14/raw/main/PartyJobShare_Tarkin/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Tarkiin/FF14/raw/main/PartyJobShare_Tarkin/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Tarkiin/FF14/raw/main/PartyJobShare_Tarkin/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1758929623",
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true
   }
 ]
