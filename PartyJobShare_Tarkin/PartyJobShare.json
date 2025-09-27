@@ -3,7 +3,7 @@
   "Name": "PartyJobShare_Tarkin",
   "Punchline": "Comparte y visualiza jobs de party en tiempo real",
   "Description": "Permite a los miembros de la party seleccionar manualmente su job y compartirlo en tiempo real con todos los miembros, incluso en mapas diferentes.",
-  "InternalName": "PartyJobShare_Tarkin",
+  "InternalName": "PartyJobShare",
   "AssemblyVersion": "1.0.0.2",
   "TestingAssemblyVersion": "1.0.0.2",
   "RepoUrl": "https://github.com/Tarkiin/FF14",
