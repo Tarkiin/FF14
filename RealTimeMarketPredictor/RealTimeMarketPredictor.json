@@ -1,0 +1,30 @@
+{
+  "Author": "Tarkin",
+  "Name": "Real-Time Market Predictor",
+  "Punchline": "AI-powered market board prediction system",
+  "Description": "Advanced AI system that predicts Final Fantasy XIV market board trends using hybrid LSTM-Transformer + Random Forest models. Provides real-time price predictions, crash/spike alerts, and market manipulation detection with 75-85% accuracy.",
+  "InternalName": "RealTimeMarketPredictor",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/tarkin/RealTimeMarketPredictor",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "market",
+    "prediction",
+    "ai",
+    "machine learning",
+    "trading",
+    "analysis",
+    "automation"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 2,
+  "LoadSync": false,
+  "CanUnloadAsync": true,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/tarkin/RealTimeMarketPredictor/main/images/icon.png",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/tarkin/RealTimeMarketPredictor/main/images/screenshot1.png",
+    "https://raw.githubusercontent.com/tarkin/RealTimeMarketPredictor/main/images/screenshot2.png"
+  ],
+  "AcceptsFeedback": true
+}
