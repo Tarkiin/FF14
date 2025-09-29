@@ -4,8 +4,8 @@
   "Punchline": "Analizador avanzado del Market Board para FFXIV",
   "Description": "Plugin que analiza y proporciona información detallada del Market Board de FFXIV con funcionalidades avanzadas de seguimiento y análisis de precios.",
   "InternalName": "TarkinBoardAnalyzer",
-  "AssemblyVersion": "0.0.0.18",
-  "TestingAssemblyVersion": "0.0.0.18",
+  "AssemblyVersion": "0.0.0.31",
+  "TestingAssemblyVersion": "0.0.0.31",
   "RepoUrl": "https://github.com/Tarkiin/FF14",
   "ApplicableVersion": "any",
   "Tags": [
@@ -20,6 +20,10 @@
     "market"
   ],
   "DalamudApiLevel": 13,
+  "IconUrl": "https://raw.githubusercontent.com/Tarkiin/FF14/main/TarkinBoardAnalyzer/images/icon.png",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/Tarkiin/FF14/main/TarkinBoardAnalyzer/images/image.png"
+  ],
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": true,
