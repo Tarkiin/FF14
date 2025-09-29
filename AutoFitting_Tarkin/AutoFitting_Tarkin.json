@@ -1,0 +1,32 @@
+{
+  "Author": "Tarkin",
+  "Name": "AutoFitting_Tarkin",
+  "Punchline": "Try on automático con Ctrl+hover",
+  "Description": "Plugin que permite hacer try on automático de items equipables al mantener Ctrl y hacer hover sobre ellos, facilitando la previsualización rápida de equipamiento.",
+  "InternalName": "AutoFitting_Tarkin",
+  "AssemblyVersion": "1.0.0.0",
+  "TestingAssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/Tarkiin/FF14",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "fitting",
+    "try on",
+    "equipment",
+    "preview",
+    "glamour"
+  ],
+  "CategoryTags": [
+    "utility",
+    "ui"
+  ],
+  "DalamudApiLevel": 13,
+  "IconUrl": "https://raw.githubusercontent.com/Tarkiin/FF14/main/AutoFitting_Tarkin/images/icon.png",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/Tarkiin/FF14/main/AutoFitting_Tarkin/images/image.png"
+  ],
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": true,
+  "LoadPriority": 0,
+  "AcceptsFeedback": true
+}
