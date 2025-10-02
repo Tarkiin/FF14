@@ -1,0 +1,26 @@
+{
+  "Author": "Tarkiin",
+  "Name": "FastLootMove_Tarkin",
+  "Punchline": "Mueve items rápidamente a retainers y cofres con teclas modificadoras",
+  "Description": "Plugin que permite mover stacks completos de items a retainers, cofres de compañía libre y chocobo usando teclas modificadoras configurables. Incluye múltiples modos de funcionamiento, historial de movimientos y sonidos configurables.",
+  "InternalName": "FastLootMove_Tarkin",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/Tarkiin/FF14",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "inventory",
+    "retainer",
+    "automation",
+    "utility",
+    "quality of life"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": true,
+  "LoadPriority": 0,
+  "Changelog": "Versión inicial del plugin FastLootMove_Tarkin con soporte para múltiples modos de movimiento, teclas configurables, historial y sonidos."
+}
